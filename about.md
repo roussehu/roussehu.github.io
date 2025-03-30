@@ -20,7 +20,7 @@ __During my PhD__ with P. Frey (INRAE) and J. Chauchat (LEGI), __I studied the s
 
 ![](images/movieExperiment.gif)
 
-Then, I spent __two years at the University of Zurich and ETHZ__ with M.P. Lüthi and J. Gaume (SLF, ETHZ) where we developed and __use a Material Point Method to model fractures on glaciers__. I also descovered glaciology working on the comprehension of episodic basal, englacial and lateral influences on Sermeq Kujalleq (Jakobshavn glacier) in Greenland. 
+Then, I spent __two years at the University of Zurich and ETHZ__ with M.P. Lüthi and J. Gaume (SLF, ETHZ) where we developed and __use a Material Point Method to model fractures on glaciers__. During this postdoc I also discovered glaciology by working on the comprehension of episodic basal, englacial and lateral influences on Sermeq Kujalleq (Jakobshavn glacier) in Greenland. 
 
 ![](images/mpm_crevasses.png)
 

@@ -7,14 +7,11 @@ date: 2024-04-10
 description: "Hugo Rousseau, Johan Gaume, Lars Blatny and Martin Lüthi"
 image: 'images/MovieFractures.gif'
 headerImage: true
-tag:
-- markdown
-- components
-- extra
+
 ---
 
 
-
+## Summary:
 
 In ice sheets and alpine glaciers, fast-flowing sections are often characterized by crevasse
 fields that play a significant role in the cryo-hydrologic system by facilitating meltwater

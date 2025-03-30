@@ -4,6 +4,7 @@ title: "Publications"
 
 ---
 
+# Publications
 
 7)  Wehrlé, A, __Rousseau, H__., Lüthi, M. P., A., Nap, A., van Ginkel, J. ,Kneib-Walter, Jouvet, G., & Walter, F. Immediate ice stream and shear margin response to
   calving at Sermeq Kujalleq in Kangia, Greenland. (submitted to GRL)
