@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-![](../images/about.png)
+![](../images/about.jpg)
 
 You can download my full CV: [CV](pdfs/cv.pdf)
 
@@ -24,7 +24,7 @@ Then, I spent __two years at the University of Zurich and ETHZ__ with M.P. Lüth
 
 ![](images/mpm_crevasses.png)
 
-__I am now working at IGE-Grenoble__ under the supervision of F. Gimbert, to work on the role of water on fracture propagation in glaciers. This reasearch are part of the REASSESS ERC Grant which aims to understand the role of melt water on the dynamics of Greenland's glaciers.
+__I am now working at IGE-Grenoble__ under the supervision of F. Gimbert, to work on the role of water on fracture propagation in glaciers. This reasearch are part of the REASSESS ERC Grant which aims to understand the role of melt water on the dynamics of Greenland's glaciers. We use seismic measurements to investigate the physical processes at play in subglacial hydrology.
 
 
 Beside my research, I spent a lot of time in the mountains, climbing, skiing or flying. I really like the idea of sneaking into isolated and steep landscapes where we can get through unexpected paths. I find it particularly aesthetic and stimulating as it teaches perseverance, imagination and gives a different perspective on our environment. Most of all, it provides an unequalled way to share memories and laugh with friends. 
