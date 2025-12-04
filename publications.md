@@ -6,11 +6,11 @@ title: "Publications"
 
 # Publications
 
-7)  Wehrlé, A, __Rousseau, H__., Lüthi, M. P., A., Nap, A., van Ginkel, J. ,Kneib-Walter, Jouvet, G., & Walter, F. Immediate ice stream and shear margin response to
-  calving at Sermeq Kujalleq in Kangia, Greenland. (submitted to GRL)
+8)  Wehrlé, A., Lüthi, M.P., Kneib-Walter, A., Nap, A., __Rousseau, H.__, Jouvet, G., & Walter, F.. [Velocity and calving response of a major Greenland ice stream to a lake drainage event](https://doi.org/10.1038/s41561-025-01858-2). Nat. Geosci. (2025).
 
-6) Wehrlé, A, Lüthi, M. P., Kneib-Walter, A., Nap, A., __Rousseau, H__., Jouvet, G., & Walter, F. Calving response to a propagating speedup pulse through a major
-Greenland ice stream (under review in Nature Geophysics)
+7) Wehrlé, A., __Rousseau, H.__, Lüthi, M. P., Nap, A., Kneib‐Walter, A., van Ginkel, J., Jouvet, G. & Walter, F. (2025). [Immediate ice stream and shear margin response to calving at Sermeq Kujalleq in Kangia, Greenland](https://doi.org/10.1029/2025GL115829). Geophysical Research Letters, 52(18). [(pdf)](pdfs/Geophysical Research Letters - 2025 - Wehrlé - Immediate Ice Stream and Shear Margin Response to Calving at Sermeq Kujalleq.pdf)
+
+6) Nap, A., Hudson, T., Walter, F., Wehrlé, A., Kneib‐Walter, A., __Rousseau, H.__, & Lüthi, M. P. (2025). [Interpreting ice anisotropy of Greenland's fastest outlet glacier using basal icequakes]( https://doi.org/10.1029/2025GL116225). Geophysical Research Letters, 52(12). [(pdf)](pdfs/Geophysical Research Letters - 2025 - Nap - Interpreting Ice Anisotropy of Greenland s Fastest Outlet Glacier Using Basal.pdf)
 
 5) Dedieu, B., __Rousseau, H__., Chauchat, J., & Frey, P. (2024). [Exploring the size ratio impact on an intruder segregating in bedload transport](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.104302). Physical Review Fluids, 9(10), 104302.
 
