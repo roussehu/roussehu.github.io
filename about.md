@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-![](../images/about.jpg)
+![](../images/about.png)
 
 You can download my full CV: [CV](pdfs/cv.pdf)
 
