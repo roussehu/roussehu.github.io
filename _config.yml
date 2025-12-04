@@ -67,7 +67,6 @@ projects: false
 about: true
 #blog: false
 publications: true
-
 teaching: true
 
 # do you want to show the "read time" of the posts?
